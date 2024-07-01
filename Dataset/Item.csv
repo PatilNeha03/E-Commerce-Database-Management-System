@@ -1,0 +1,90 @@
+"ItemID";"Item_name";"quantity";"item_price";"description";"discount";"Order_ID";"Review_ID";"UserID"
+1;"Blue Chair";4;50;"Comfortable blue chair for your living room.";"10.00";1001;501;1
+2;"Coffee Maker";2;80;"High-quality coffee maker for your kitchen.";"8.00";1002;502;2
+3;"Smartphone";5;400;"Feature-packed smartphone with a sleek design.";"15.00";1003;503;3
+4;"Desk Lamp";1;30;"Adjustable desk lamp for your workspace.";"5.00";1004;504;4
+5;"Gaming Mouse";3;50;"Precision gaming mouse for gamers.";"12.00";1005;505;5
+6;"Bluetooth Headphones";1;60;"Wireless headphones with excellent sound quality.";"15.00";1051;551;6
+7;"Outdoor Grill";2;200;"Stainless steel grill for outdoor cooking.";"10.00";1052;552;7
+8;"Digital Camera";1;300;"Capture high-quality photos with this advanced camera.";"12.00";1053;553;8
+9;"Bookshelf";3;90;"Sturdy bookshelf for organizing your book collection.";"8.00";1054;554;9
+10;"Portable Speaker";4;40;"Compact speaker for music on the go.";"5.00";1055;555;10
+11;"Wireless Keyboard";1;30;"Slim and ergonomic wireless keyboard for your computer.";"10.00";1056;556;41
+12;"Smart Thermostat";1;130;"Control your home's temperature with this smart thermostat.";"8.00";1057;557;42
+13;"Laptop Stand";2;20;"Adjustable laptop stand for comfortable use.";"5.00";1058;558;43
+14;"Electric Toothbrush";1;50;"Keep your teeth clean with this advanced electric toothbrush.";"10.00";1059;559;44
+15;"Folding Bike";1;350;"Compact folding bike for convenient transportation.";"15.00";1060;560;45
+16;"Robot Vacuum Cleaner";1;200;"Automate your cleaning with this smart vacuum cleaner.";"10.00";1061;561;46
+17;"Wireless Earbuds";2;80;"True wireless earbuds with noise cancellation.";"8.00";1062;562;47
+18;"Power Bank";3;30;"High-capacity power bank for charging your devices on the go.";"5.00";1063;563;48
+19;"Smart Doorbell";1;150;"Monitor your doorstep with this intelligent doorbell.";"12.00";1064;564;49
+20;"Yoga Mat";2;25;"Comfortable yoga mat for your fitness routine.";"8.00";1065;565;50
+21;"Digital Watch";1;60;"Sleek digital watch with multiple features.";"10.00";1066;566;81
+22;"Air Purifier";1;130;"Improve air quality with this efficient air purifier.";"15.00";1067;567;82
+23;"Wireless Charging Pad";3;20;"Convenient wireless charging for your devices.";"5.00";1068;568;83
+24;"Gourmet Coffee Set";1;45;"Indulge in a premium coffee experience with this set.";"10.00";1069;569;84
+25;"Portable Projector";1;150;"Transform any space into a home theater with this portable projector.";"12.00";1070;570;85
+26;"Bluetooth Speaker";1;40;"Portable Bluetooth speaker for music lovers.";"8.00";1071;571;86
+27;"Fitness Resistance Bands";3;15;"Set of resistance bands for versatile workouts.";"5.00";1072;572;87
+28;"Digital Drawing Tablet";1;130;"Create digital art with precision using this drawing tablet.";"10.00";1073;573;88
+29;"Rechargeable Flashlight";2;20;"Bright LED flashlight with rechargeable battery.";"5.00";1074;574;89
+30;"Travel Backpack";1;50;"Durable and spacious backpack for your travel needs.";"12.00";1075;575;90
+31;"Wireless Gaming Controller";1;60;"Enhance your gaming experience with this wireless controller.";"10.00";1076;576;121
+32;"Smart Home Hub";1;90;"Centralized hub for controlling smart home devices.";"15.00";1077;577;122
+33;"Compact Espresso Machine";1;130;"Brew espresso at home with this compact machine.";"8.00";1078;578;123
+34;"Adjustable Standing Desk";1;250;"Improve your posture with this adjustable standing desk.";"10.00";1079;579;124
+36;"Robot Lawn Mower";1;300;"Automate lawn maintenance with this robotic mower.";"15.00";1080;580;125
+37;"Portable Gas Grill";1;80;"Enjoy outdoor grilling with this portable gas grill.";"8.00";1081;581;126
+38;"Sleeping Bag";2;35;"Stay warm during camping trips with this cozy sleeping bag.";"5.00";1082;582;127
+39;"Smart Water Bottle";1;20;"Stay hydrated with a smart water bottle that tracks your intake.";"10.00";1083;583;128
+40;"Wireless Charging Mouse Pad";1;25;"Charge your devices while using your computer with this mouse pad.";"5.00";1084;584;129
+41;"Digital Alarm Clock";1;15;"Wake up on time with this modern digital alarm clock.";"8.00";1085;585;130
+42;"Portable Gas Grill";1;80;"Enjoy outdoor grilling with this portable gas grill.";"8.00";1081;581;141
+43;"Sleeping Bag";2;35;"Stay warm during camping trips with this cozy sleeping bag.";"5.00";1082;582;142
+44;"Smart Water Bottle";1;20;"Stay hydrated with a smart water bottle that tracks your intake.";"10.00";1083;583;143
+45;"Wireless Charging Mouse Pad";1;25;"Charge your devices while using your computer with this mouse pad.";"5.00";1084;584;44
+46;"Digital Alarm Clock";1;15;"Wake up on time with this modern digital alarm clock.";"8.00";1085;585;145
+47;"Fitness Tracker";2;70;"Track your fitness goals with this advanced tracker.";"8.00";1050;550;146
+48;"Bluetooth Speaker";1;40;"Portable Bluetooth speaker for music lovers.";"8.00";1071;571;147
+49;"Fitness Resistance Bands";3;15;"Set of resistance bands for versatile workouts.";"5.00";1072;572;148
+50;"Digital Drawing Tablet";1;130;"Create digital art with precision using this drawing tablet.";"10.00";1073;573;149
+51;"Widget X";5;20;"A high-quality widget for various uses.";"10";101;201;1
+52;"Gadget Y";3;15;"The latest gadget with advanced features.";"5";102;202;3
+53;"Tech Gizmo";8;25;"A cutting-edge tech gizmo with futuristic design.";"15";103;203;1
+54;"Smart Device";2;18;"A smart device for home automation.";"8";104;204;3
+55;"Accessory Z";6;22;"An essential accessory for everyday use.";"12";105;205;3
+56;"Handy Tool";4;17;"A handy tool for DIY projects.";"7";106;206;1
+57;"Fashion Item";7;21;"A trendy fashion item for style enthusiasts.";"11";107;207;1
+58;"Outdoor Gear";5;19;"Durable outdoor gear for adventurous activities.";"9";108;208;1
+59;"Creative Artifact";3;16;"A creative artifact for artistic minds.";"6";109;209;1
+60;"Everyday Essential";9;24;"An everyday essential for modern living.";"14";110;210;1
+61;"Widget X";5;20;"A high-quality widget for various uses.";"10";101;201;1
+62;"Gadget Y";3;15;"The latest gadget with advanced features.";"5";102;202;3
+63;"Tech Gizmo";8;25;"A cutting-edge tech gizmo with futuristic design.";"15";103;203;1
+64;"Smart Device";2;18;"A smart device for home automation.";"8";104;204;3
+65;"Accessory Z";6;22;"An essential accessory for everyday use.";"12";105;205;3
+66;"Handy Tool";4;17;"A handy tool for DIY projects.";"7";106;206;1
+67;"Fashion Item";7;21;"A trendy fashion item for style enthusiasts.";"11";107;207;1
+68;"Outdoor Gear";5;19;"Durable outdoor gear for adventurous activities.";"9";108;208;1
+69;"Creative Artifact";3;16;"A creative artifact for artistic minds.";"6";109;209;1
+70;"Everyday Essential";9;24;"An everyday essential for modern living.";"14";110;210;1
+71;"Widget X";5;20;"A high-quality widget for various uses.";"10";101;201;5
+72;"Gadget Y";3;15;"The latest gadget with advanced features.";"5";102;202;5
+73;"Tech Gizmo";8;25;"A cutting-edge tech gizmo with futuristic design.";"15";103;203;5
+74;"Smart Device";2;18;"A smart device for home automation.";"8";104;204;5
+75;"Accessory Z";6;22;"An essential accessory for everyday use.";"12";105;205;5
+76;"Handy Tool";4;17;"A handy tool for DIY projects.";"7";106;206;5
+77;"Fashion Item";7;21;"A trendy fashion item for style enthusiasts.";"11";107;207;8
+78;"Outdoor Gear";5;19;"Durable outdoor gear for adventurous activities.";"9";108;208;8
+79;"Creative Artifact";3;16;"A creative artifact for artistic minds.";"6";109;209;8
+80;"Everyday Essential";9;24;"An everyday essential for modern living.";"14";110;210;8
+81;"Widget X";5;20;"A high-quality widget for various uses.";"10";101;201;8
+82;"Gadget Y";3;15;"The latest gadget with advanced features.";"5";102;202;8
+83;"Tech Gizmo";8;25;"A cutting-edge tech gizmo with futuristic design.";"15";103;203;8
+84;"Smart Device";2;18;"A smart device for home automation.";"8";104;204;30
+85;"Accessory Z";6;22;"An essential accessory for everyday use.";"12";105;205;30
+86;"Handy Tool";4;17;"A handy tool for DIY projects.";"7";106;206;10
+87;"Fashion Item";7;21;"A trendy fashion item for style enthusiasts.";"11";107;207;10
+88;"Outdoor Gear";5;19;"Durable outdoor gear for adventurous activities.";"9";108;208;10
+89;"Creative Artifact";3;16;"A creative artifact for artistic minds.";"6";109;209;10
+90;"Everyday Essential";9;24;"An everyday essential for modern living.";"14";110;210;10

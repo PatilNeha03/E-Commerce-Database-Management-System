@@ -1,0 +1,51 @@
+"Order_ID";"order_date";"order_details";"payment_method";"order_summary";"item_price";"tax";"grand_total";"invoiceID";"userID"
+1;"2023-01-01";"Details1";"Credit Card";"Summary1";100;10;110;"INV2023001";1
+2;"2023-01-02";"Details2";"PayPal";"Summary2";150;15;165;"INV2023002";2
+3;"2023-01-03";"Details3";"Debit Card";"Summary3";120;12;132;"INV2023003";3
+4;"2023-01-04";"Details4";"Credit Card";"Summary4";80;8;88;"INV2023004";4
+5;"2023-01-05";"Details5";"PayPal";"Summary5";200;20;220;"INV2023005";5
+6;"2023-01-06";"Details6";"Debit Card";"Summary6";90;9;99;"INV2023006";6
+7;"2023-01-07";"Details7";"Credit Card";"Summary7";110;11;121;"INV2023007";7
+8;"2023-01-08";"Details8";"PayPal";"Summary8";130;13;143;"INV2023008";8
+9;"2023-01-09";"Details9";"Debit Card";"Summary9";180;18;198;"INV2023009";9
+10;"2023-01-10";"Details10";"Credit Card";"Summary10";95;10;105;"INV2023010";10
+11;"2023-01-11";"Details11";"PayPal";"Summary11";120;12;132;"INV2023011";11
+12;"2023-01-12";"Details12";"Debit Card";"Summary12";150;15;165;"INV2023012";12
+13;"2023-01-13";"Details13";"Credit Card";"Summary13";200;20;220;"INV2023013";13
+14;"2023-01-14";"Details14";"PayPal";"Summary14";85;9;94;"INV2023014";14
+15;"2023-01-15";"Details15";"Debit Card";"Summary15";110;11;121;"INV2023015";15
+16;"2023-01-16";"Details16";"Credit Card";"Summary16";160;16;176;"INV2023016";16
+17;"2023-01-17";"Details17";"PayPal";"Summary17";75;8;83;"INV20230017";17
+18;"2023-01-18";"Details18";"Debit Card";"Summary18";130;13;143;"INV2023018";18
+19;"2023-01-19";"Details19";"Credit Card";"Summary19";170;17;187;"INV2023019";19
+20;"2023-01-20";"Details20";"PayPal";"Summary20";110;11;121;"INV2023020";20
+21;"2023-01-15";"Order Details 1";"Credit Card";"Summary 1";50;5;55;"INV001";1
+22;"2023-02-08";"Order Details 2";"PayPal";"Summary 2";75;7;82;"INV002";2
+23;"2023-03-22";"Order Details 3";"Debit Card";"Summary 3";100;10;110;"INV003";3
+24;"2023-04-11";"Order Details 4";"Credit Card";"Summary 4";120;12;132;"INV004";4
+25;"2023-05-07";"Order Details 5";"PayPal";"Summary 5";90;9;99;"INV005";5
+26;"2023-06-19";"Order Details 6";"Debit Card";"Summary 6";60;6;66;"INV006";6
+27;"2023-07-02";"Order Details 7";"Credit Card";"Summary 7";80;8;88;"INV007";7
+28;"2023-08-14";"Order Details 8";"PayPal";"Summary 8";110;11;121;"INV008";8
+29;"2023-09-27";"Order Details 9";"Debit Card";"Summary 9";95;10;105;"INV009";9
+30;"2023-10-05";"Order Details 10";"Credit Card";"Summary 10";70;7;77;"INV010";10
+31;"2023-01-15";"Order Details 1";"Credit Card";"Summary 1";50;5;55;"INV001";1
+32;"2023-02-08";"Order Details 2";"PayPal";"Summary 2";75;7;82;"INV002";1
+33;"2023-03-22";"Order Details 3";"Debit Card";"Summary 3";100;10;110;"INV003";1
+34;"2023-04-11";"Order Details 4";"Credit Card";"Summary 4";120;12;132;"INV004";1
+35;"2023-05-07";"Order Details 5";"PayPal";"Summary 5";90;9;99;"INV005";4
+36;"2023-06-19";"Order Details 6";"Debit Card";"Summary 6";60;6;66;"INV006";3
+37;"2023-07-02";"Order Details 7";"Credit Card";"Summary 7";80;8;88;"INV007";3
+38;"2023-08-14";"Order Details 8";"PayPal";"Summary 8";110;11;121;"INV008";8
+39;"2023-09-27";"Order Details 9";"Debit Card";"Summary 9";95;10;105;"INV009";8
+40;"2023-10-05";"Order Details 10";"Credit Card";"Summary 10";70;7;77;"INV010";10
+41;"2023-01-15";"Order Details 1";"Credit Card";"Summary 1";50;5;55;"INV001";10
+42;"2023-02-08";"Order Details 2";"PayPal";"Summary 2";75;7;82;"INV002";1
+43;"2023-03-22";"Order Details 3";"Debit Card";"Summary 3";100;10;110;"INV003";1
+44;"2023-04-11";"Order Details 4";"Credit Card";"Summary 4";120;12;132;"INV004";1
+45;"2023-05-07";"Order Details 5";"PayPal";"Summary 5";90;9;99;"INV005";4
+46;"2023-06-19";"Order Details 6";"Debit Card";"Summary 6";60;6;66;"INV006";3
+47;"2023-07-02";"Order Details 7";"Credit Card";"Summary 7";80;8;88;"INV007";3
+48;"2023-08-14";"Order Details 8";"PayPal";"Summary 8";110;11;121;"INV008";8
+49;"2023-09-27";"Order Details 9";"Debit Card";"Summary 9";95;10;105;"INV009";8
+50;"2023-10-05";"Order Details 10";"Credit Card";"Summary 10";70;7;77;"INV010";10
